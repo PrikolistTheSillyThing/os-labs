@@ -12,7 +12,7 @@ The lab was carried out in a terminal on the provided Linux virtual machine. It 
 - **Memory:** how the OS allocates and monitors RAM
 - **Devices:** how hardware is exposed to programs and users
 
-For each area, the report gives the commands used and, more importantly, **what they showed**: the output, what it says about how the OS behaves, and any surprises along the way.
+For each area, the report gives the commands used and, more importantly, what they showed: the output, what it says about how the OS behaves, and any surprises along the way.
 
 ```
 vboxuser@Ubuntu:/home$ whoami
